@@ -1,1 +1,5 @@
-AsteroidsGame is a one player, interactive, UI based game in which the user works to survive numerous waves of DANGEROUS asteroids. This game was programmed in Java and utilizes Processing to bring this game to life.
+## Overview
+  - Asteroids is a one-player interactive space shooter game 
+  - Programmed in Processing's Java-based language
+  - Utilizes Processing graphic library to visualize game
+  - Personal project that uses Git for version control
